@@ -1,0 +1,10 @@
+ALGORITMA
+1.	Buka sekantong yang berisi gula-gula
+2.	Periksa, ada berapa jumlah gula-gula yang ada di kantong
+3.	Di dalam kantong ada 14 gula-gula
+4.	Hitung ada berapa anak yang di bagikan gula-gula
+5.	Ada 4 anak yang dibagikan gula-gula
+6.	Bagikan gula-gula sama rata masing- masing dapat 3 gula-gula
+7.	Apakah ada sisa atau tidak
+8.	Jika ada, maka gula-gula di masukkan kembali ke kantong
+9.	Jika tidak ada, maka gula-gula habis dibagikan
